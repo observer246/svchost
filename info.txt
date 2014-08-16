@@ -1,1 +1,2 @@
-This is a test info file
+update:0
+base64 code...
